@@ -60,7 +60,6 @@ This application integrates real-time data from Twitter to perform sentiment ana
 pip install -r requirements.txt
 
 ##  Directory Structure
-```text
 ├── src/
 │   ├── config/          # Settings and environment loading
 │   ├── models/          # Data structure definitions (e.g., Elasticsearch Document)
