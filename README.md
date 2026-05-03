@@ -70,7 +70,8 @@ pip install -r requirements.txt
 ├── main.py              # Data ingestion entry point
 ├── requirements.txt     # Project dependencies
 └── .env.example         # Template for configuration
-```text
+
+```
 
 ## 4. Key Modules and Components
 
