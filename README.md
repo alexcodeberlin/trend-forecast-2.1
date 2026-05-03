@@ -58,6 +58,7 @@ This application integrates real-time data from Twitter to perform sentiment ana
 
    # Install the dependencies from the requirements file
 pip install -r requirements.txt
+```text
 
 ##  Directory Structure
 ├── src/
@@ -69,6 +70,7 @@ pip install -r requirements.txt
 ├── main.py              # Data ingestion entry point
 ├── requirements.txt     # Project dependencies
 └── .env.example         # Template for configuration
+```text
 
 ## 4. Key Modules and Components
 
